@@ -12,7 +12,7 @@ class _splashscreenState extends State<splashscreen> {
   @override
   void initState(){
     super.initState();
-    Timer(Duration(seconds: 3), (){
+    Timer(Duration(seconds: 5), (){
       Navigator.of(context).pushReplacement(MaterialPageRoute(
         builder: (context) => homepage(),
       ));
@@ -27,9 +27,9 @@ class _splashscreenState extends State<splashscreen> {
       backgroundColor: Colors.blueGrey,
       body: Center(
         child: Text(
-          "Take Quiz\n!!Test Yourself !!",
+          " Take quizQuiz\nT!!est Yourself !!",
           style: TextStyle(
-            fontSize: 80.0,
+            fontSize: 60.0,
             color: Colors.white,
 
           ),
