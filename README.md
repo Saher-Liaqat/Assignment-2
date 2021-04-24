@@ -1,3 +1,4 @@
+![score screen](https://user-images.githubusercontent.com/76213201/115960847-12a75680-a52d-11eb-9659-a1895e36c861.PNG)
 ![drawer of mcqz](https://user-images.githubusercontent.com/76213201/115960543-703aa380-a52b-11eb-8452-9d95e302f7e6.PNG)
 ![timer](https://user-images.githubusercontent.com/76213201/115959833-9e1de900-a527-11eb-8d6f-93d9c0488000.PNG)
 ![questionsss](https://user-images.githubusercontent.com/76213201/115959202-82fdaa00-a524-11eb-9561-4aec06eb6c3f.PNG)
