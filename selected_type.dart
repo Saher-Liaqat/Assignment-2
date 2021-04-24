@@ -12,6 +12,7 @@ class selecttype extends StatelessWidget {
 
     return MaterialApp(
 
+
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
 
@@ -98,7 +99,7 @@ class selecttype extends StatelessWidget {
                       child: Text('Multiple choice questions (MCQs)',style: Theme.of(context)
                           .textTheme
                           .button
-                          .copyWith(color: Colors.white, fontSize: 20.0),
+                          .copyWith(color: Colors.black, fontSize: 20.0),
 
                       ),
                     ),
