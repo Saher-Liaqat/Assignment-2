@@ -17,6 +17,12 @@
 # Quiz app!
 ![1q](https://user-images.githubusercontent.com/76213201/115594396-1ea5d500-a2ef-11eb-82b9-270696d5bc8d.PNG)
 
+![saherresult1](https://user-images.githubusercontent.com/76213201/116003230-925d2000-a616-11eb-88f5-e5f00ed374f4.PNG)
+
+![saherresult1](https://user-images.githubusercontent.com/76213201/116003244-9b4df180-a616-11eb-967e-9e990d2755c6.PNG)
+
+
+
 
 
   
