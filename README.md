@@ -13,10 +13,7 @@
 #welcome screen for user to select type of quiz.
 ![wlcom](https://user-images.githubusercontent.com/76213201/115957345-3a8dbe80-a51b-11eb-811e-100f81920faf.PNG)
 #outout screenshot for true and false.
-![saherresult1](https://user-images.githubusercontent.com/76213201/116003230-925d2000-a616-11eb-88f5-e5f00ed374f4.PNG)
-#reslts for true and false.
-![s](https://user-images.githubusercontent.com/76213201/116030974-37f3ac00-a676-11eb-8b18-f83d2f4f8530.PNG)
-
+![my true false](https://user-images.githubusercontent.com/76213201/116035949-4db99f00-a67f-11eb-8fa1-2184d2070af9.PNG)
 # Quiz app!
 ![pic 1](https://user-images.githubusercontent.com/76213201/115586890-7be95880-a2e6-11eb-8622-33607ae96a11.PNG)
 # Quiz app!
