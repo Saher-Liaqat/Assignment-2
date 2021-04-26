@@ -27,11 +27,11 @@
 # Quiz app!
 ![1q](https://user-images.githubusercontent.com/76213201/115594396-1ea5d500-a2ef-11eb-82b9-270696d5bc8d.PNG)
 
-![s](https://user-images.githubusercontent.com/76213201/116004301-8d4e9f80-a61b-11eb-82d3-e2d1a7a675c0.PNG)
 
 
 
 
+![saherresult1](https://user-images.githubusercontent.com/76213201/116003230-925d2000-a616-11eb-88f5-e5f00ed374f4.PNG)
 
 
 
