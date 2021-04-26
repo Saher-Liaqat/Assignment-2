@@ -33,7 +33,7 @@
 
 
 
-![saherresult1](https://user-images.githubusercontent.com/76213201/116003230-925d2000-a616-11eb-88f5-e5f00ed374f4.PNG)
+
 
 
 
