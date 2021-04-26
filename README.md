@@ -12,8 +12,10 @@
 ![drawer](https://user-images.githubusercontent.com/76213201/115957430-d5869880-a51b-11eb-9f00-8f7463a4e888.PNG)
 #welcome screen for user to select type of quiz.
 ![wlcom](https://user-images.githubusercontent.com/76213201/115957345-3a8dbe80-a51b-11eb-811e-100f81920faf.PNG)
-#iutout screenshot for mcqs results.
+#outout screenshot for true and false.
 ![saherresult1](https://user-images.githubusercontent.com/76213201/116003230-925d2000-a616-11eb-88f5-e5f00ed374f4.PNG)
+#reslts for true and false.
+![s](https://user-images.githubusercontent.com/76213201/116030974-37f3ac00-a676-11eb-8b18-f83d2f4f8530.PNG)
 
 # Quiz app!
 ![pic 1](https://user-images.githubusercontent.com/76213201/115586890-7be95880-a2e6-11eb-8622-33607ae96a11.PNG)
@@ -33,7 +35,6 @@
 
 ![saherresult1](https://user-images.githubusercontent.com/76213201/116003230-925d2000-a616-11eb-88f5-e5f00ed374f4.PNG)
 
-![s](https://user-images.githubusercontent.com/76213201/116030974-37f3ac00-a676-11eb-8b18-f83d2f4f8530.PNG)
 
 
 
